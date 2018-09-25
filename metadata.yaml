@@ -1,10 +1,13 @@
 _repo: Antar-A-Bedoueen-Romance_57857
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Hamilton, Terrick
     gutenberg_agent_id: '49654'
     url: http://www.gutenberg.org/2009/agents/49654
+covers:
+- cover_type: archival
+  image_path: 57857-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -15,6 +18,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/browse/authors/u#a49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57857#Antar-A-Bedoueen-Romance
 gutenberg_issued: '2018-09-06'
 gutenberg_type: Text
 identifiers:
